@@ -10,5 +10,8 @@ Game Features
 •	Victory occurs after collecting 10 coins.
 •	Plane blows up after 4 collisions with enemy aircrafts 
 •	Health and count counter
- 
- 
+
+Gallery
+![alt text](https://github.com/nishchalnigam/Game-One/blob/master/Gallery/GameOver.png) 
+![alt text](https://github.com/nishchalnigam/Game-One/blob/master/Gallery/One.png)
+![alt text](https://github.com/nishchalnigam/Game-One/blob/master/Gallery/Two.png)
